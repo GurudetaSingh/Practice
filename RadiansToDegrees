@@ -1,0 +1,7 @@
+import math
+
+def ConvertRadianToDegree(radian):
+    degree = round(radian * (180/math.pi), 2)
+    return degree
+
+
