@@ -9,4 +9,4 @@ def count_rotations(nums):
         
         position += 1
         
-    return -1
+    return 0
